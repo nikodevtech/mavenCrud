@@ -1,0 +1,17 @@
+# Maven target directory
+target/
+
+# Maven generated files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# File Connection .Properties
+/com.mavencrud/src/main/java/util/conexion_postgresql.properties
